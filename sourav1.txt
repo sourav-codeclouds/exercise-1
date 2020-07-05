@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+This is dummy text for sourav1 file...
+Adding new line... 
+Adding another new line
+=======
+This is dummy text for sourav1 file
+>>>>>>> 4dcfaae4bb23bf17628a4adea7d508db44e7551f
